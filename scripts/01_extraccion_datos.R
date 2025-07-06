@@ -6,7 +6,7 @@ script_1 <- '
 # Rafael González – Legajo: 909454
 
 # == CARGA DE LIBRERÍAS Y CONFIGURACIÓN ===========================
-setwd("C:/TP-CDD")
+setwd("~/Ciencia de Datos 2025/FCE-trabajo-de-mercado-inmobiliario-")
 
 library(tidyverse)
 library(janitor)
